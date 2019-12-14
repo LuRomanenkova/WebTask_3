@@ -4,8 +4,8 @@
     <e p="C:\Users\LudmilaRomanenkova\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
     <e p="C:\Users\LudmilaRomanenkova\.Rider2019.2\config\extensions" t="IncludeRecursive" />
     <e p="C:\Users\LudmilaRomanenkova\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\LudmilaRomanenkova\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WebApplication31W.1195916208.00" t="ExcludeRecursive" />
-    <e p="C:\Users\LudmilaRomanenkova\RiderProjects\WebApplication31W" t="IncludeFlat">
+    <e p="C:\Users\LudmilaRomanenkova\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WebApplication31W.566735953.00" t="ExcludeRecursive" />
+    <e p="C:\Users\LudmilaRomanenkova\RiderProjects\WebTask3W\WebApplication31W" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="WebApplication31W" t="IncludeRecursive">
         <e p="appsettings.Development.json" t="Include" />

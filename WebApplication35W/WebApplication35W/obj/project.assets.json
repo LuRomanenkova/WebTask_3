@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebApplication35W\\WebApplication35W\\WebApplication35W.csproj",
+      "projectUniqueName": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebTask3W\\WebApplication35W\\WebApplication35W\\WebApplication35W.csproj",
       "projectName": "WebApplication35W",
-      "projectPath": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebApplication35W\\WebApplication35W\\WebApplication35W.csproj",
+      "projectPath": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebTask3W\\WebApplication35W\\WebApplication35W\\WebApplication35W.csproj",
       "packagesPath": "C:\\Users\\LudmilaRomanenkova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebApplication35W\\WebApplication35W\\obj\\",
+      "outputPath": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebTask3W\\WebApplication35W\\WebApplication35W\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet",
@@ -33,6 +33,10 @@
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {}

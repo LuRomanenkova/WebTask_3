@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebApplication33W\\WebApplication33W\\WebApplication33W.csproj",
+      "projectUniqueName": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebTask3W\\WebApplication33W\\WebApplication33W\\WebApplication33W.csproj",
       "projectName": "WebApplication33W",
-      "projectPath": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebApplication33W\\WebApplication33W\\WebApplication33W.csproj",
+      "projectPath": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebTask3W\\WebApplication33W\\WebApplication33W\\WebApplication33W.csproj",
       "packagesPath": "C:\\Users\\LudmilaRomanenkova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebApplication33W\\WebApplication33W\\obj\\",
+      "outputPath": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebTask3W\\WebApplication33W\\WebApplication33W\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet",

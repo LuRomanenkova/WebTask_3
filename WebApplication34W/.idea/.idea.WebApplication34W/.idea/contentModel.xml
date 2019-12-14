@@ -4,8 +4,8 @@
     <e p="C:\Users\LudmilaRomanenkova\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
     <e p="C:\Users\LudmilaRomanenkova\.Rider2019.2\config\extensions" t="IncludeRecursive" />
     <e p="C:\Users\LudmilaRomanenkova\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\LudmilaRomanenkova\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WebApplication34W.1080783402.00" t="ExcludeRecursive" />
-    <e p="C:\Users\LudmilaRomanenkova\RiderProjects\WebApplication34W" t="IncludeFlat">
+    <e p="C:\Users\LudmilaRomanenkova\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WebApplication34W.451603147.00" t="ExcludeRecursive" />
+    <e p="C:\Users\LudmilaRomanenkova\RiderProjects\WebTask3W\WebApplication34W" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="WebApplication34W" t="IncludeRecursive">
         <e p="appsettings.Development.json" t="Include" />
@@ -23,6 +23,8 @@
           <e p="launchSettings.json" t="Include" />
         </e>
         <e p="Startup.cs" t="Include" />
+        <e p="TokenExtensions.cs" t="Include" />
+        <e p="TokenMiddleware.cs" t="Include" />
         <e p="WebApplication34W.csproj" t="IncludeRecursive" />
       </e>
       <e p="WebApplication34W.sln" t="IncludeFlat" />

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebApplication32W\\WebApplication32W\\WebApplication32W.csproj",
+    "projectUniqueName": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebTask3W\\WebApplication32W\\WebApplication32W\\WebApplication32W.csproj",
     "projectName": "WebApplication32W",
-    "projectPath": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebApplication32W\\WebApplication32W\\WebApplication32W.csproj",
-    "outputPath": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebApplication32W\\WebApplication32W\\obj\\",
+    "projectPath": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebTask3W\\WebApplication32W\\WebApplication32W\\WebApplication32W.csproj",
+    "outputPath": "C:\\Users\\LudmilaRomanenkova\\RiderProjects\\WebTask3W\\WebApplication32W\\WebApplication32W\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Microsoft\\Xamarin\\NuGet",

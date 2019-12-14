@@ -1,4 +1,5 @@
-﻿using System.Net.Http;
+﻿using System.Linq;
+using System.Net.Http;
 using Microsoft.AspNetCore.Http;
 
 namespace WebApplication37W 
@@ -13,10 +14,10 @@ namespace WebApplication37W
             if (res == null)
             {
                 EmailMessageSenderContext = "Empty string!";
+                context.Session.SetString("text", "Hello! I'm from session! Have a good day :)");
             }
             else
             {
-                context.Session.SetString("text", "Hello! I'm from session! Have a good day :)");
                 EmailMessageSenderContext = res;
             }
         }

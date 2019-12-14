@@ -1,12 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96c3bfe2-1c4e-4439-be19-6248a5a19a9b" name="Default Changelist" comment="" />
+    <list default="true" id="96c3bfe2-1c4e-4439-be19-6248a5a19a9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../WebApplication31W/.idea/.idea.WebApplication31W/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication31W/.idea/.idea.WebApplication31W/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication31W/.idea/.idea.WebApplication31W/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication31W/.idea/.idea.WebApplication31W/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication31W/WebApplication31W/obj/Debug/netcoreapp3.0/WebApplication31W.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication31W/WebApplication31W/obj/Debug/netcoreapp3.0/WebApplication31W.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication31W/WebApplication31W/obj/Debug/netcoreapp3.0/WebApplication31W.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication31W/WebApplication31W/obj/Debug/netcoreapp3.0/WebApplication31W.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication31W/WebApplication31W/obj/WebApplication31W.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication31W/WebApplication31W/obj/WebApplication31W.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication31W/WebApplication31W/obj/WebApplication31W.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication31W/WebApplication31W/obj/WebApplication31W.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication31W/WebApplication31W/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication31W/WebApplication31W/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication31W/WebApplication31W/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication31W/WebApplication31W/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication32W/.idea/.idea.WebApplication32W/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication32W/.idea/.idea.WebApplication32W/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication32W/.idea/.idea.WebApplication32W/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication32W/.idea/.idea.WebApplication32W/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication32W/WebApplication32W/obj/Debug/netcoreapp3.0/WebApplication32W.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication32W/WebApplication32W/obj/Debug/netcoreapp3.0/WebApplication32W.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication32W/WebApplication32W/obj/Debug/netcoreapp3.0/WebApplication32W.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication32W/WebApplication32W/obj/Debug/netcoreapp3.0/WebApplication32W.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication32W/WebApplication32W/obj/Debug/netcoreapp3.0/WebApplication32W.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication32W/WebApplication32W/obj/Debug/netcoreapp3.0/WebApplication32W.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication32W/WebApplication32W/obj/WebApplication32W.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication32W/WebApplication32W/obj/WebApplication32W.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication32W/WebApplication32W/obj/WebApplication32W.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication32W/WebApplication32W/obj/WebApplication32W.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication32W/WebApplication32W/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication32W/WebApplication32W/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication32W/WebApplication32W/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication32W/WebApplication32W/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication33W/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication33W/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication33W/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication33W/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication33W/obj/Debug/netcoreapp3.0/WebApplication33W.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication33W/obj/Debug/netcoreapp3.0/WebApplication33W.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication33W/obj/Debug/netcoreapp3.0/WebApplication33W.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication33W/obj/Debug/netcoreapp3.0/WebApplication33W.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication33W/obj/WebApplication33W.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication33W/obj/WebApplication33W.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication33W/obj/WebApplication33W.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication33W/obj/WebApplication33W.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication33W/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication33W/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication33W/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication33W/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication34W/.idea/.idea.WebApplication34W/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication34W/.idea/.idea.WebApplication34W/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication34W/.idea/.idea.WebApplication34W/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication34W/.idea/.idea.WebApplication34W/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication34W/WebApplication34W/obj/Debug/netcoreapp3.0/WebApplication34W.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication34W/WebApplication34W/obj/Debug/netcoreapp3.0/WebApplication34W.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication34W/WebApplication34W/obj/Debug/netcoreapp3.0/WebApplication34W.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication34W/WebApplication34W/obj/Debug/netcoreapp3.0/WebApplication34W.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication34W/WebApplication34W/obj/WebApplication34W.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication34W/WebApplication34W/obj/WebApplication34W.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication34W/WebApplication34W/obj/WebApplication34W.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication34W/WebApplication34W/obj/WebApplication34W.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication34W/WebApplication34W/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication34W/WebApplication34W/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication34W/WebApplication34W/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication34W/WebApplication34W/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication35W/.idea/.idea.WebApplication35W/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication35W/.idea/.idea.WebApplication35W/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication35W/.idea/.idea.WebApplication35W/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication35W/.idea/.idea.WebApplication35W/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication35W/WebApplication35W/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication35W/WebApplication35W/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication35W/WebApplication35W/obj/Debug/netcoreapp3.0/WebApplication35W.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication35W/WebApplication35W/obj/Debug/netcoreapp3.0/WebApplication35W.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication35W/WebApplication35W/obj/Debug/netcoreapp3.0/WebApplication35W.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication35W/WebApplication35W/obj/Debug/netcoreapp3.0/WebApplication35W.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication35W/WebApplication35W/obj/WebApplication35W.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication35W/WebApplication35W/obj/WebApplication35W.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication35W/WebApplication35W/obj/WebApplication35W.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication35W/WebApplication35W/obj/WebApplication35W.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication35W/WebApplication35W/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication35W/WebApplication35W/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication35W/WebApplication35W/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication35W/WebApplication35W/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication36W/.idea/.idea.WebApplication36W/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication36W/.idea/.idea.WebApplication36W/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication36W/.idea/.idea.WebApplication36W/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication36W/.idea/.idea.WebApplication36W/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication36W/WebApplication36W/obj/Debug/netcoreapp3.0/WebApplication36W.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication36W/WebApplication36W/obj/Debug/netcoreapp3.0/WebApplication36W.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication36W/WebApplication36W/obj/Debug/netcoreapp3.0/WebApplication36W.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication36W/WebApplication36W/obj/Debug/netcoreapp3.0/WebApplication36W.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication36W/WebApplication36W/obj/WebApplication36W.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication36W/WebApplication36W/obj/WebApplication36W.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication36W/WebApplication36W/obj/WebApplication36W.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication36W/WebApplication36W/obj/WebApplication36W.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication36W/WebApplication36W/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication36W/WebApplication36W/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication36W/WebApplication36W/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication36W/WebApplication36W/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication37W/.idea/.idea.WebApplication37W/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication37W/.idea/.idea.WebApplication37W/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication37W/.idea/.idea.WebApplication37W/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication37W/.idea/.idea.WebApplication37W/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/bin/Debug/netcoreapp3.0/WebApplication37W.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/bin/Debug/netcoreapp3.0/WebApplication37W.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/bin/Debug/netcoreapp3.0/WebApplication37W.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/bin/Debug/netcoreapp3.0/WebApplication37W.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/Debug/netcoreapp3.0/WebApplication37W.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/Debug/netcoreapp3.0/WebApplication37W.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/Debug/netcoreapp3.0/WebApplication37W.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/Debug/netcoreapp3.0/WebApplication37W.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/Debug/netcoreapp3.0/WebApplication37W.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/Debug/netcoreapp3.0/WebApplication37W.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/Debug/netcoreapp3.0/WebApplication37W.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/Debug/netcoreapp3.0/WebApplication37W.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/Debug/netcoreapp3.0/WebApplication37W.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/Debug/netcoreapp3.0/WebApplication37W.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/WebApplication37W.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/WebApplication37W.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/WebApplication37W.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/WebApplication37W.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication37W/WebApplication37W/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/WebApplication33W/Startup.cs" root0="FORCE_HIGHLIGHTING" />
@@ -19,10 +86,17 @@
     </option>
   </component>
   <component name="ProjectId" id="1UrLrPRMr41tPsrU9KdaaQ8HkUA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,14 +153,26 @@
       <option name="presentableId" value="Default" />
       <updated>1576109966006</updated>
       <workItem from="1576109967715" duration="438000" />
+      <workItem from="1576278814401" duration="1094000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
